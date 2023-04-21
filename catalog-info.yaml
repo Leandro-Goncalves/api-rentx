@@ -5,6 +5,8 @@ metadata:
   annotations:
     github.com/project-slug: Leandro-Goncalves/api-rentx
 spec:
-  type: other
+  type: openapi
   lifecycle: unknown
   owner: guests
+  definition:
+    $text: https://basilisk.dbg.compraqui.app/swagger/v3/swagger.json
