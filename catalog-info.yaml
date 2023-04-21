@@ -9,4 +9,4 @@ spec:
   lifecycle: unknown
   owner: guests
   definition:
-    $text: https://basilisk.dbg.compraqui.app/swagger/v3/swagger.json
+    $text: https://petstore.swagger.io/v2/swagger.json
